@@ -1,0 +1,18 @@
+body{
+    background-color:blue;
+}
+h1{
+    color:red;
+    font-size: 60px;
+    text-align: center;
+}
+p{
+    color: green;
+    font-size: 30px;
+    text-align: center;
+}
+img{
+    width: 20%;
+    margin-left: 610px;
+    border: 10px dotted red ;
+}
