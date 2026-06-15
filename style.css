@@ -16,3 +16,15 @@ img{
     margin-left: 610px;
     border: 10px dotted rgb(241, 241, 241) ;
 }
+.img_cabecalho{
+    height: 260px; 
+    width: 260px ;
+    transition: 0.3s;
+}
+.img_cabecalho:hover{
+    opacity: 2.8s;
+}
+header{
+    display:flex;
+background-color:rgb(255, 255, 246)
+}
